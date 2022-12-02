@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="style.css">
+    <script language="javascript" src="javas.js" defer ></script>
+    <title>crud js</title>
+</head>
+<body>
+ <div class="crud">
+    <div class="head">
+        <h2>crud</h2>
+        <p>product Mnagement System</p>
+    </div>
+    <div class="input">
+        <input type="text" id ="title" placeholder="title">
+
+        <div class="price">
+            <input  onKeyUp='getTotal()' type="number" id="price"    name="price"  placeholder="price">
+            <input  onKeyUp='getTotal()' type="number" id="taxes"  name="taxes"  placeholder="taxes">
+            <input  onKeyUp='getTotal()' type="number" id="ads" name="ads"  placeholder="ads">
+            <input  onKeyUp='getTotal()' type="number" id="discount"  name="discount"   placeholder="discount">
+            <small id="total"   name="total"  ></small>
+        </div>
+        <input type="number" id ="count"  name="count" placeholder="count">
+        <input type="text" id ="category" name="category"   placeholder="category">
+        <button id="submit">create</button>
+    </div>
+    <div class="output">
+        <div class="searshblock">
+            <input type="text" id="searsh" placeholder="searsh">
+            <div class="btnsearsh">
+                <button id="searshTitle">searsh By Title</button>
+                <button id="searshCategory" >searsh By Category</button>
+
+            </div>
+        </div>
+        <table>
+            <tr>
+                <th>id</th>
+                <th>title</th>
+                <th>price</th>
+                <th>taxes</th>
+                <th>ads</th>
+                <th>discount</th>
+                <th>total</th>
+                <th>category</th>
+                <th>update</th>
+                <th>delate</th> 
+            </tr>
+            <tbody id="tbody">
+              
+              
+            </tbody>
+        </table>
+
+    </div>
+
+</div>
+
+</body>
+</html>
