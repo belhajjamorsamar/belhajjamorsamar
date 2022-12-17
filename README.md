@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @belhajjamorsamar
-- 👀 I'm student in Higher Institute of Computer Science and Multimedia of Sfax specializing in Data analysis, Big data and mobile development with Flutter.
+- 👀 I'm student in Higher Institute of Computer Science and Multimedia of Sfax specializing in Data analysis, Big data .
 ...
 
 <!---
