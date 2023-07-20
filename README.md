@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm BELHAJJ AMOR SAMAR</h1>
 <h3 align="center">Fullstack js developer from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=belhajjamorsamar&label=Profile%20views&color=0e75b6&style=flat" alt="belhajjamorsamar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belhajjamorsamar" alt="belhajjamorsamar" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack E_commerce Project**
 
