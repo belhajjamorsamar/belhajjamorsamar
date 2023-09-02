@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm BELHAJJ AMOR SAMAR</h1>
-<h3 align="center">Fullstack js developer from Tunisia</h3>
+<h3 align="center">Fullstack  developer from Tunisia</h3>
 
 
-- 🔭 I’m currently working on **MERN Stack E_commerce Project**
+- 🔭 I’m currently working on **https://github.com/belhajjamorsamar/Sea-Gourmet**
 
-- 🌱 I’m currently learning **Devops , cloud , jira , gitLab**
+- 🌱 I’m currently learning **Nextjs , cloud , jira , gitLab**
 
 - 💬 Ask me about **Reactjs,Axios ,Redux , tailwind css/ Nodejs , Php ,laravel ,Express js /MongDb**
 
