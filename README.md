@@ -17,20 +17,20 @@
 
 <!-- Présentation personnelle et informations -->
 <p align="center">
-  I'm BELHAJJ AMOR SAMAR, a Fullstack Developer based in Tunisia. I'm passionate about web development and continuously expanding my skill set. Currently working on exciting projects like [Sea-Gourmet](https://github.com/belhajjamorsamar/Sea-Gourmet).
+  Welcome to my GitHub profile! I'm BELHAJJ AMOR SAMAR, a Fullstack Developer based in Tunisia. My passion lies in creating web applications and exploring new technologies. I'm currently working on exciting projects like [Sea-Gourmet](https://github.com/belhajjamorsamar/Sea-Gourmet).
 
   Here are some of my areas of expertise:
-  - Frontend: Reactjs, Axios, Redux, Tailwind CSS
-  - Backend: Nodejs, PHP, Laravel, Express.js
+  - Frontend: React.js, Axios, Redux, Tailwind CSS
+  - Backend: Node.js, PHP, Laravel, Express.js
   - Databases: MongoDB
 </p>
 
 <!-- Projet actuel et domaines d'apprentissage -->
 <p align="center">
   - 🔭 I’m currently working on [Sea-Gourmet](https://github.com/belhajjamorsamar/Sea-Gourmet)
-  - 🌱 I’m currently learning Next.js, cloud, Jira, GitLab
-  - 💬 Ask me about Reactjs, Axios, Redux, Tailwind CSS / Nodejs, PHP, Laravel, Express.js, MongoDB
-  - 📫 How to reach me: belhajjamorsamar@gmail.com
+  - 🌱 I’m currently learning Next.js, cloud technologies, Jira, GitLab
+  - 💬 Ask me about React.js, Axios, Redux, Tailwind CSS / Node.js, PHP, Laravel, Express.js, MongoDB
+  - 📫 How to reach me: [belhajjamorsamar@gmail.com](mailto:belhajjamorsamar@gmail.com)
 </p>
 
 <!-- Mettez en valeur vos compétences et outils -->
