@@ -62,5 +62,36 @@
     - 📫 How to reach me: [Belhajjamorsamar@gmail.com](mailto:Belhajjamorsamar@gmail.com)
 </p>
 
+## Languages and Tools
+
+### Data Science
+- **Python**  
+  ![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+- **Power BI**  
+  ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Power_BI_logo.png/1280px-Power_BI_logo.png)
+- **ETL Talend**  
+  ![Talend](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Talend_Logo.svg/1280px-Talend_Logo.svg.png)
+
+### Machine Learning
+- **scikit-learn**  
+  ![scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
+- **TensorFlow**  
+  ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_Logo.svg/1280px-TensorFlow_Logo.svg.png)
+- **PyTorch**  
+  ![PyTorch](https://pytorch.org/assets/images/pytorch-logo-dark.svg)
+
+### Deep Learning
+- **Keras**  
+  ![Keras](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Keras_logo.png/800px-Keras_logo.png)
+- **fast.ai**  
+  ![fast.ai](https://fast.ai/images/fastai_logo.png)
+
+### Web Development
+- **Laravel**  
+  ![Laravel](https://laravel.com/img/logomark.min.svg)
+- **React**  
+  ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png)
+
+
 
  
