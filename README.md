@@ -4,8 +4,9 @@
 
 <p align="left"> <a href="https://x.com/BELHAJAMORSamar" target="blank"><img src="https://img.shields.io/twitter/follow/samuel_dev_?logo=twitter&style=for-the-badge" alt="Samar_Belhajj_Amor" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damdev1&label=Profile%20views&color=0e75b6&style=flat" alt="damdev1" /> </p>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=belhajjamorsamar&label=Profile%20views&color=0e75b6&style=flat" alt="belhajjamorsamar" /> 
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damdev1" alt="damdev1" /></a> </p>
 
 
