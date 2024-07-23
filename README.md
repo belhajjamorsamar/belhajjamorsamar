@@ -13,18 +13,41 @@
   </a> 
 </p>
 
+ <a href="https://github.com/zied-snoussi">
+    <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" />
+  </a>
+    <a href="https://user-badge.committers.top/tunisia_private/zied-snoussi">
+    <img src="https://user-badge.committers.top/tunisia_private/zied-snoussi.svg" alt="zied-snoussi" />
+  </a>
+  <a href="https://www.linkedin.com/in/zied-snoussi/">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
+  </a>
+  <a href="https://twitter.com/ziedalsnoussi">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/x" />
+  </a>
+  <a href="mailto:ziedsnoussi.tn@gmail.com">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
+  </a>
+  <a href="https://www.youtube.com/@ziedsnoussi">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/youtube" />
+  </a>
+  <a href="https://medium.com/@ziedsnoussi.tn">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/medium/777777" />
+  </a>
+</div>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 
 
-- 🌱 I’m currently learning **React Native, Next.js, TypeScript**
+- 🌱 I’m currently learning **Next.js, TypeScript, Power Bi ,Docker **
 
-- 💬 Ask me about **HTML, SCSS, JavaScript, React**
+- 💬 Ask me about **PHP, Laravel, JavaScript, React**
 
-- 📫 How to reach me **samueldamilare622@gmail.com**
+- 📫 How to reach me **Belhajjamorsamar@gmail.com**
 
-- ⚡ Fun fact **I have a passion for basketball, but I have never played it before.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
