@@ -4,7 +4,6 @@
 
 <h3 align="center">Web developer and data scientist from Tunisia</h3>
 <div>
-<p align="left"> <a href="https://x.com/BELHAJAMORSamar" target="blank"><img src="https://img.shields.io/twitter/follow/samuel_dev_?logo=twitter&style=for-the-badge" alt="Samar_Belhajj_Amor" /></a> </p>
 
 <p align="left">
   <a href="https://x.com/BELHAJAMORSamar" target="blank">
