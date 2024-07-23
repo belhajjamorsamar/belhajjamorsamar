@@ -36,15 +36,14 @@
   </a> 
 </p>
 
-
 <!-- Statistics Section -->
 <h3 align="center">Statistics</h3>
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=belhajjamorsamar&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhajjamorsamar&layout=compact&theme=radical" alt="Top Languages">
+    <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=belhajjamorsamar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </div>
+
 
 
 
