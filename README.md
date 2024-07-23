@@ -7,7 +7,12 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=belhajjamorsamar&label=Profile%20views&color=0e75b6&style=flat" alt="belhajjamorsamar" /> 
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damdev1" alt="damdev1" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=belhajjamorsamar" alt="belhajjamorsamar" />
+  </a> 
+</p>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
