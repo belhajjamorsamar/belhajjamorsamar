@@ -37,7 +37,13 @@
 </p>
 
 
-
+<!-- Statistics Section -->
+<h3 align="center">Statistics</h3>
+<div align="center">
+    <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zied-snoussi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</div>
 
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
