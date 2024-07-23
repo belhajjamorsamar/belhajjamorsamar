@@ -56,7 +56,7 @@
 
 <h2 align="center" style="color: #ff69b4;">About Me</h2>
 
-<p align="center">
+
     - 🌱 I’m currently learning **Next.js, TypeScript, Power BI, Docker**<br>
     - 💬 Ask me about **PHP, Laravel, JavaScript, React**<br>
     - 📫 How to reach me: [Belhajjamorsamar@gmail.com](mailto:Belhajjamorsamar@gmail.com)
