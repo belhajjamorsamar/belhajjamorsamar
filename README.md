@@ -63,12 +63,6 @@
 </p>
 
 
-### Web Development
-- **Laravel**  
-  ![Laravel](https://laravel.com/img/logomark.min.svg)
-- **React**  
-  ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png)
-
 
 
  
