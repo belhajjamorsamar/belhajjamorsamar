@@ -49,22 +49,18 @@
 
 
 <!-- About Me Section -->
-<div align="center">
-    <img alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+<p align="center">
+    <img alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+</p>
 
-    <h2 style="margin-top: 20px; font-family: 'Arial', sans-serif; color: #ff69b4;">About Me</h2>
-    
-    <p style="font-family: 'Arial', sans-serif; color: #333; line-height: 1.6;">
-        <strong>🌱 Currently Learning:</strong> <br>
-        <span style="color: #ff69b4;">Next.js, TypeScript, Power BI, Docker</span><br><br>
-        
-        <strong>💬 Ask Me About:</strong> <br>
-        <span style="color: #ff69b4;">PHP, Laravel, JavaScript, React</span><br><br>
-        
-        <strong>📫 How to Reach Me:</strong> <br>
-        <a href="mailto:Belhajjamorsamar@gmail.com" style="color: #ff69b4; text-decoration: none; font-weight: bold;">Belhajjamorsamar@gmail.com</a>
-    </p>
-</div>
+<h2 align="center" style="color: #ff69b4;">About Me</h2>
+
+<p align="center">
+    - 🌱 I’m currently learning **Next.js, TypeScript, Power BI, Docker**<br>
+    - 💬 Ask me about **PHP, Laravel, JavaScript, React**<br>
+    - 📫 How to reach me: [Belhajjamorsamar@gmail.com](mailto:Belhajjamorsamar@gmail.com)
+</p>
+
 
 
 
