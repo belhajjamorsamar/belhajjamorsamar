@@ -54,37 +54,14 @@
     <img alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 </p>
 
-<h2 align="center" style="color: #ff69b4;">About Me</h2>
+<h2 align="left" style="color: #ff69b4;">About Me</h2>
 
 
-    - 🌱 I’m currently learning **Next.js, TypeScript, Power BI, Docker**<br>
-    - 💬 Ask me about **PHP, Laravel, JavaScript, React**<br>
-    - 📫 How to reach me: [Belhajjamorsamar@gmail.com](mailto:Belhajjamorsamar@gmail.com)
+    -  I’m currently learning **Next.js, TypeScript, Power BI, Docker**<br>
+    -  Ask me about **PHP, Laravel, JavaScript, React**<br>
+    -  How to reach me: [Belhajjamorsamar@gmail.com](mailto:Belhajjamorsamar@gmail.com)
 </p>
 
-## Languages and Tools
-
-### Data Science
-- **Python**  
-  ![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
-- **Power BI**  
-  ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Power_BI_logo.png/1280px-Power_BI_logo.png)
-- **ETL Talend**  
-  ![Talend](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Talend_Logo.svg/1280px-Talend_Logo.svg.png)
-
-### Machine Learning
-- **scikit-learn**  
-  ![scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
-- **TensorFlow**  
-  ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_Logo.svg/1280px-TensorFlow_Logo.svg.png)
-- **PyTorch**  
-  ![PyTorch](https://pytorch.org/assets/images/pytorch-logo-dark.svg)
-
-### Deep Learning
-- **Keras**  
-  ![Keras](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Keras_logo.png/800px-Keras_logo.png)
-- **fast.ai**  
-  ![fast.ai](https://fast.ai/images/fastai_logo.png)
 
 ### Web Development
 - **Laravel**  
