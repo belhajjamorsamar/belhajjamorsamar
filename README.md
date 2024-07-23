@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF5CAD&fontAlign=45&fontAlignY=56&descAlign=62"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=048b9a"/>
 
 <h1 align="center">Hi <span style="color: #FF5CAD;">&#10084;&#65039;</span>, I'm Samar BELHAJJ AMOR</h1>
 
