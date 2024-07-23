@@ -41,8 +41,8 @@
 <h3 align="center">Statistics</h3>
 <div align="center">
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=belhajjamorsamar&show_icons=true&theme=radical" alt="GitHub Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhajjamorsamar&layout=compact&theme=radical" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=belhajjamorsamar&show_icons=true&bg_color=ffffff&title_color=ff69b4&text_color=333&icon_color=ff69b4" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhajjamorsamar&layout=compact&bg_color=ffffff&title_color=ff69b4&text_color=333" alt="Top Languages">
     </a>
 </div>
 
