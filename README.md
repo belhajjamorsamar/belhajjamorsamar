@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF5CAD&fontAlign=45&fontAlignY=56&descAlign=62"/>
 
-<h1 align="center">Hi 👋, I'm Samar BELHAJJ AMOR</h1>
+<h1 align="center">Hi ❤️, I'm Samar BELHAJJ AMOR</h1>
+
 <h3 align="center">Web developer and data scientist from Tunisia</h3>
 <div>
 <p align="left"> <a href="https://x.com/BELHAJAMORSamar" target="blank"><img src="https://img.shields.io/twitter/follow/samuel_dev_?logo=twitter&style=for-the-badge" alt="Samar_Belhajj_Amor" /></a> </p>
