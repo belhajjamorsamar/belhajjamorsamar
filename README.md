@@ -10,26 +10,17 @@
   <img src="https://komarev.com/ghpvc/?username=belhajjamorsamar&label=Profile%20views&color=0e75b6&style=flat" alt="belhajjamorsamar" /> 
 </p>
 
- <a href="https://github.com/zied-snoussi">
-    <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" />
-  </a>
-    <a href="https://user-badge.committers.top/tunisia_private/zied-snoussi">
-    <img src="https://user-badge.committers.top/tunisia_private/zied-snoussi.svg" alt="zied-snoussi" />
-  </a>
-  <a href="https://www.linkedin.com/in/zied-snoussi/">
+ <a href="https://github.com/belhajjamorsamar">
+    <img src="https://img.shields.io/github/followers/belhajjamorsamar?label=Follow&style=social" alt="belhajjamorsamar" />
+</a>
+  <a href="https://www.linkedin.com/in/samar-belhajj-amor/">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
   </a>
-  <a href="https://twitter.com/ziedalsnoussi">
+  <a href="https://twitter.com/BELHAJAMORSamar">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/x" />
   </a>
-  <a href="mailto:ziedsnoussi.tn@gmail.com">
+  <a href="mailto:samarbelhajjamor@gmail.com">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
-  </a>
-  <a href="https://www.youtube.com/@ziedsnoussi">
-    <img align="right" width="20px" src="https://cdn.simpleicons.org/youtube" />
-  </a>
-  <a href="https://medium.com/@ziedsnoussi.tn">
-    <img align="right" width="20px" src="https://cdn.simpleicons.org/medium/777777" />
   </a>
 </div>
 <p align="left"> 
