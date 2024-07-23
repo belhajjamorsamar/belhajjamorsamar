@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=252&color=FF8AC4&fontAlign=45&fontAlignY=56&descAlign=62"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Input%20text"/>
 
 <h1 align="center">Hi 👋, I'm Samar BELHAJJ AMOR</h1>
 <h3 align="center">Web developer and data scientist from Tunisia</h3>
