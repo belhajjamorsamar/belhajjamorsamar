@@ -39,7 +39,6 @@
 <!-- About Me Section -->
 <p align="center">
     <img alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
-</p>
 
 
 
@@ -47,6 +46,8 @@
     -  Ask me about **PHP, Laravel, JavaScript, React**<br>
     -  How to reach me: [Belhajjamorsamar@gmail.com](mailto:Belhajjamorsamar@gmail.com)
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=048b9a"/>
 
 
 
