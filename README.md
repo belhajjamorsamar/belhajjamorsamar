@@ -6,19 +6,13 @@
 
 - 🌱 My Experiences
 
-  • Web design and Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
+  • Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
 
-  • Backend Development: Node.JS, Rust, GraphQL, Golang, Laravel, Django, Flask, FastAPI, Express.JS, NestJS, Spring Boot, .NET
+  • Backend Development: Node.JS,  Laravel, Flask, FastAPI, Express.JS, NestJS,
 
-  • Database: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
+  • Database: PostgreSQL, MySQL, MongoDB, Firebase, Prisma 
 
-  • DevOps: CI/CD(Github, Gitlab, Bitbucket), AWS, Docker, Linux
-
-  • ML/AI Development: TensorFlow, PyTorch, Fine-tuning, Pandas, NumPy, OpenAI API, LangChain, Hugging Face, Pinecone
-
-  • Blockchain Development: DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust and Cosmos SDK
-
-  • Bot Development: Telegram Bot & Trading Bot Development(Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot)
+  • ML/AI Development: TensorFlow, PyTorch, Fine-tuning, Pandas, NumPy, OpenAI API
 
 <br>
 
