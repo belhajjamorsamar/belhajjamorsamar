@@ -1,55 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#5000ca" fill-opacity="0.75" d="M0,96L0,128L42.4,128L42.4,224L84.7,224L84.7,288L127.1,288L127.1,96L169.4,96L169.4,192L211.8,192L211.8,96L254.1,96L254.1,160L296.5,160L296.5,288L338.8,288L338.8,64L381.2,64L381.2,288L423.5,288L423.5,192L465.9,192L465.9,96L508.2,96L508.2,96L550.6,96L550.6,64L592.9,64L592.9,64L635.3,64L635.3,96L677.6,96L677.6,32L720,32L720,64L762.4,64L762.4,288L804.7,288L804.7,192L847.1,192L847.1,192L889.4,192L889.4,224L931.8,224L931.8,288L974.1,288L974.1,32L1016.5,32L1016.5,64L1058.8,64L1058.8,160L1101.2,160L1101.2,288L1143.5,288L1143.5,192L1185.9,192L1185.9,128L1228.2,128L1228.2,96L1270.6,96L1270.6,32L1312.9,32L1312.9,320L1355.3,320L1355.3,128L1397.6,128L1397.6,192L1440,192L1440,320L1397.6,320L1397.6,320L1355.3,320L1355.3,320L1312.9,320L1312.9,320L1270.6,320L1270.6,320L1228.2,320L1228.2,320L1185.9,320L1185.9,320L1143.5,320L1143.5,320L1101.2,320L1101.2,320L1058.8,320L1058.8,320L1016.5,320L1016.5,320L974.1,320L974.1,320L931.8,320L931.8,320L889.4,320L889.4,320L847.1,320L847.1,320L804.7,320L804.7,320L762.4,320L762.4,320L720,320L720,320L677.6,320L677.6,320L635.3,320L635.3,320L592.9,320L592.9,320L550.6,320L550.6,320L508.2,320L508.2,320L465.9,320L465.9,320L423.5,320L423.5,320L381.2,320L381.2,320L338.8,320L338.8,320L296.5,320L296.5,320L254.1,320L254.1,320L211.8,320L211.8,320L169.4,320L169.4,320L127.1,320L127.1,320L84.7,320L84.7,320L42.4,320L42.4,320L0,320L0,320Z"></path></svg>
+<h1 align="center">👋 Hi there. I'm Brody 👋</h1>
+<h3 align="center">A Senior Software Engineer</h3>
 
-<h1 align="center">Hi <span style="color: #FF5CAD;">&#10084;&#65039;</span>, I'm Samar BELHAJJ AMOR</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madara1793&label=Profile%20views&color=0e75b6&style=flat" alt="madara1793" /> </p>
 
-<h3 align="center">Web developer and data scientist from Tunisia</h3>
-<div>
+- 🌱 AI/ML | Trading | Bot | Web3/Smart contract
+
+- 🌱 My Experiences
+
+  • Web design and Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
+
+  • Backend Development: Node.JS, Rust, GraphQL, Golang, Laravel, Django, Flask, FastAPI, Express.JS, NestJS, Spring Boot, .NET
+
+  • Database: PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Prisma, TypeORM
+
+  • DevOps: CI/CD(Github, Gitlab, Bitbucket), AWS, Docker, Linux
+
+  • ML/AI Development: TensorFlow, PyTorch, Fine-tuning, Pandas, NumPy, OpenAI API, LangChain, Hugging Face, Pinecone
+
+  • Blockchain Development: DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust and Cosmos SDK
+
+  • Bot Development: Telegram Bot & Trading Bot Development(Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot)
+
+<br>
 
 <p align="center">
-  <a href="https://x.com/BELHAJAMORSamar" target="blank">
-    <img src="https://img.shields.io/twitter/follow/samuel_dev_?logo=twitter&style=for-the-badge" alt="Samar_Belhajj_Amor" />
-  </a> 
-  <img src="https://komarev.com/ghpvc/?username=belhajjamorsamar&label=Profile%20views&color=0e75b6&style=flat" alt="belhajjamorsamar" /> 
-  <a href="https://github.com/belhajjamorsamar">
-    <img src="https://img.shields.io/github/followers/belhajjamorsamar?label=Follow&style=social" alt="belhajjamorsamar" />
-  </a>
-  <a href="https://www.linkedin.com/in/samar-belhajj-amor/">
-    <img width="20px" src="https://cdn.simpleicons.org/linkedin" />
-  </a>
-  <a href="https://twitter.com/BELHAJAMORSamar">
-    <img width="20px" src="https://cdn.simpleicons.org/x" />
-  </a>
-  <a href="mailto:samarbelhajjamor@gmail.com">
-    <img width="20px" src="https://cdn.simpleicons.org/gmail" />
+  <a href="https://wakatime.com/@madara1793">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=madara1793&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%" alt="activity graph">
   </a>
 </p>
 
-
-<!-- Statistics Section -->
-<h3 align="center">Statistics</h3>
-<div align="center">
-    <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=belhajjamorsamar&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</div>
-
-
-
-
-<!-- About Me Section -->
 <p align="center">
-    <img alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
-
-
-
-    -  I’m currently learning **Next.js, TypeScript, Power BI, Docker**<br>
-    -  Ask me about **PHP, Laravel, JavaScript, React**<br>
-    -  How to reach me: [Belhajjamorsamar@gmail.com](mailto:Belhajjamorsamar@gmail.com)
+  <img height="120" width="150" src="https://github.com/madara1793/madara1793/blob/main/left.png">
+  <a href="https://wakatime.com/@madara1793"><img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=madara1793&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@madara's wakatime stats" /></a>
+  <img height="120" width="150" src="https://github.com/madara1793/madara1793/blob/main/right.png">
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=048b9a"/>
-
-
-
-
- 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><br>TS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="Sass" /><br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" /><br>Express.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" /><br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>Nestjs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="Golang" /><br>Javascipt
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br>Vue.js    
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vuetify" width="48" height="48" alt="Vuetify" /><br>Vuetify
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GQL" /><br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" /><br>Docker
+    </td>
+  </tr>
+</table>
