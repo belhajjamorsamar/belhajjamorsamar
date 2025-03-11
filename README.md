@@ -1,6 +1,5 @@
-<h1 align="center">👋 Hi there. I'm Brody 👋</h1>
-<h3 align="center">A Senior Software Engineer</h3>
-
+<h1 align="center">👋 Hi there. I'm Samar 👋</h1>
+<h3 align="center">A Full-Stack Developer and Data Science Student (She/Her)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madara1793&label=Profile%20views&color=0e75b6&style=flat" alt="madara1793" /> </p>
 
 - 🌱 AI/ML | Trading | Bot | Web3/Smart contract
