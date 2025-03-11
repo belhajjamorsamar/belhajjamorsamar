@@ -1,9 +1,7 @@
-<h1 align="center">👋 Hi there. I'm Samar 👋</h1>
+<h1 align="center">👋 Hi there. I'm Samar  🤖 </h1>
 <h3 align="center">A Full-Stack Developer and Data Science Student (She/Her)</h3>
 </br>
-- 🌍 Based in **Tunsia**  
-</br>
-- 🤖 Interests: **Multiplayer Development, AI**  
+- 🌍 Based in Tunsia  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madara1793&label=Profile%20views&color=0e75b6&style=flat" alt="madara1793" /> </p>
 
