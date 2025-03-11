@@ -16,21 +16,6 @@
   • ML/AI Development: TensorFlow, PyTorch, Fine-tuning, Pandas, NumPy, OpenAI API
 
 <br>
-
-<p align="center">
-  <a href="https://wakatime.com/@madara1793">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=madara1793&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
-      width="95%" alt="activity graph">
-  </a>
-</p>
-
-<p align="center">
-  <img height="120" width="150" src="https://github.com/madara1793/madara1793/blob/main/left.png">
-  <a href="https://wakatime.com/@madara1793"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=madara1793&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@madara's wakatime stats" /></a>
-  <img height="120" width="150" src="https://github.com/madara1793/madara1793/blob/main/right.png">
-</p>
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <table align="center">
@@ -75,5 +60,20 @@
 
   </tr>
 </table>
+<p align="center">
+  <a href="https://wakatime.com/@madara1793">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=madara1793&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%" alt="activity graph">
+  </a>
+</p>
+
+<p align="center">
+  <img height="120" width="150" src="https://github.com/madara1793/madara1793/blob/main/left.png">
+  <a href="https://wakatime.com/@madara1793"><img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=madara1793&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@madara's wakatime stats" /></a>
+  <img height="120" width="150" src="https://github.com/madara1793/madara1793/blob/main/right.png">
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
