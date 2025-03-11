@@ -5,17 +5,6 @@
 </br>
 🌍 Based in Tunsia  
 </br>
-
-
-
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=SamarBelHajjAmor&label=Profile%20views&color=0e75b6&style=flat" alt="SamarBelHajjAmor" />  
-</p>
-
-<br/>
- 
-
-
 - 🌱 My Experiences
 
   • Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
