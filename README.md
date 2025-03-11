@@ -76,6 +76,5 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=madara1793&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@madara's wakatime stats" /></a>
   <img height="120" width="150" src="https://github.com/madara1793/madara1793/blob/main/right.png">
 </p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ExploitEngineer}/count.svg" /></p> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
