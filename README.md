@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=belhajjamorsamar.belhajjamorsamar"/><h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samar+Belhajjamor!;"/>
 </h1>
-<h3 align="center">A Full-Stack Developer and Data Science Student (She/Her)</h3>
+<h3 align="center">A Full-Stack Developer and Data Science Student </h3>
 </br>
 🌍 Based in Tunsia  
 </br>
@@ -31,7 +31,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=madara1793&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@madara's wakatime stats" /></a>
   <img height="120" width="150" src="https://github.com/madara1793/madara1793/blob/main/right.png">
 </p>
-
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<br/>
 <table align="center">
   <tr>
     <td align="center" width="96">
