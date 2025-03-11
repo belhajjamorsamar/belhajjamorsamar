@@ -7,6 +7,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madara1793&label=Profile%20views&color=0e75b6&style=flat" alt="madara1793" /> </p>
 
+<br/>
+ 
+<div align="center"> 
+  <a href="mailto:ankanghorai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.youtube.com/@ANKAN24">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ankan24/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+   <a href="https://www.instagram.com/ankan_24/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://ankan-ghorai.onrender.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+
 - 🌱 My Experiences
 
   • Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
