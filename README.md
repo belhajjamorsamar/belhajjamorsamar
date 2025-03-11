@@ -9,7 +9,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madara1793&label=Profile%20views&color=0e75b6&style=flat" alt="madara1793" /> </p>
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=SamarBelHajjAmor&label=Profile%20views&color=0e75b6&style=flat" alt="SamarBelHajjAmor" />  
+</p>
 
 <br/>
  
