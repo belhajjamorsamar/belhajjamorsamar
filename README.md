@@ -1,78 +1,99 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=90&section=header"/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=belhajjamorsamar.belhajjamorsamar"/><h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samar+Belhajjamor!;"/>
-</h1>
-<h3 align="center">A Full-Stack Developer and Data Science Student </h3>
-</br>
-🌍 Based in Tunsia  
-</br>
-- 🌱 My Experiences
-
-  • Frontend Develpment: React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS
-
-  • Backend Development: Node.JS,  Laravel, Flask, FastAPI, Express.JS, NestJS,
-
-  • Database: PostgreSQL, MySQL, MongoDB, Firebase, Prisma 
-
-  • ML/AI Development: TensorFlow, PyTorch, Fine-tuning, Pandas, NumPy, OpenAI API
-
-<br>
-<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
-<br/>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><br>React
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><br>TS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" /><br>Express.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" /><br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>Nestjs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS
-    </td>
-  </tr>
-  <tr>
-
-  </tr>
-</table>
-<p align="center">
-  <a href="https://wakatime.com/@madara1793">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=madara1793&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
-      width="95%" alt="activity graph">
-  </a>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=belhajjamorsamar.belhajjamorsamar"/>
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋;+I'm+Samar+Belhajj+Amor;Data+Scientist+%7C+AI+Engineer;Building+Intelligent+Systems"/>
+</h1>
 
-<div align="center">
-<br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
+<h3 align="center">🧠 Data Scientist | AI Engineer | ML Enthusiast</h3>
+
+<p align="center">
+📍 Tunis, Tunisia  
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🎯 Data Scientist spécialisée en **Machine Learning, NLP et IA Générative**
+* 🧠 Expérience en **Deep Learning, Transformers et Time Series**
+* ⚙️ Construction de solutions **de la data jusqu’au déploiement**
+* 🌐 Intégration de modèles IA dans des **applications web**
+* 🚀 Objectif : créer des systèmes intelligents utiles et scalables
+
+---
+
+## 🧠 Tech Focus
+
+* 🤖 Machine Learning & Deep Learning
+* 🧾 Natural Language Processing (NLP)
+* 🧠 Generative AI & LLMs
+* ⚡ Time Series Forecasting
+* 🔗 MLOps & AI Systems
+
+---
+
+## ⚒ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy" /><br/> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,fastapi" /><br/> <img src="https://skillicons.dev/icons?i=git,docker,mysql,mongodb,postgres" />
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+🔹 **House Price Prediction (MLOps Pipeline)**
+→ ML pipeline with MLflow & ZenML, model optimization & tracking
+
+🔹 **Blockchain Anomaly Detection**
+→ Detection of suspicious patterns using unsupervised learning
+
+🔹 **Multilingual NLP Classification**
+→ Transformer models (BERT, RoBERTa, DistilBERT)
+
+🔹 **Energy Demand Forecasting**
+→ LSTM/CNN models for time series prediction
+
+🔹 **Glaucoma AI Diagnosis System**
+→ Medical AI + web integration
+
+---
+
+## 💼 Experience
+
+* 🧠 Data Scientist — NLP & Transformers
+* 💻 Full Stack Developer — Business Software
+* ⚡ Data Scientist — Time Series Forecasting
+* 🏥 AI Engineer — Medical AI System
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:belhajjamorsamar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+## ⚡ Vision
+
+<p align="center">
+<strong>Building intelligent systems from data to real-world impact.</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2C5364&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+🚀"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer"/>
