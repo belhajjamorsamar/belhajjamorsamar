@@ -14,10 +14,8 @@
   </a>
 </p>
 
-┌────────────────────────────────────────────────────────────────────────┐
-│  Architecting Production-Grade Multi-Agent Systems & RAG Systems      │
-│  Tunis, Tunisia  •  Open to Remote / Global AI Engineering Roles      │
-└────────────────────────────────────────────────────────────────────────┘
+> **Architecting Production-Grade Multi-Agent Systems & RAG Systems**  
+> 📍 Tunis, Tunisia • Open to Remote / Global AI Engineering Roles
 
 </div>
 
@@ -25,9 +23,9 @@
 
 ### ⚡ Executive Summary
 
-Current Focus: Production Multi-Agent Systems & RAG Architectures
-Core Philosophy: Learn-by-building with high engineering rigor
-Primary Tooling: LangGraph, CrewAI, MCP, LangChain, Python, PyTorch
+* **Current Focus**: Production Multi-Agent Systems & RAG Architectures
+* **Core Philosophy**: Learn-by-building with high engineering rigor
+* **Primary Tooling**: LangGraph, CrewAI, MCP, LangChain, Python, PyTorch
 
 - 🤖 **AI Engineer at Vitae Services**: Engineering enterprise-grade RAG solutions (LangChain, ChromaDB, LangSmith).
 - 🧬 **Agentic AI Specialist**: Designing resilient multi-agent orchestration, state management, and LLM evaluation loops.
