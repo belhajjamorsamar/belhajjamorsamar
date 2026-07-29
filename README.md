@@ -21,12 +21,12 @@
 
 ---
 
-### ⚡ Professional Snapshot
+### ⚡ Executive Profile
 
-- **Role**: Data Scientist & AI Engineer
-- **Certification**: Microsoft Azure Data Fundamentals (DP-900)
-- **Core Focus**: Machine Learning, Deep Learning & Web Solutions
-- **Tech Stack**: Python, Next.js, React, PHP, SQL, Power BI, WSL/Linux
+- 🧠 **Data Science & Machine Learning**: Hands-on experience with Deep Learning models, time-series forecasting, and data analytics pipelines.
+- 💻 **Full-Stack Capability**: Building complete Web & Fleet Management solutions with PHP, Next.js, React, and modern databases.
+- 📜 **Azure Certified**: Microsoft Certified Azure Data Fundamentals (`DP-900`).
+- 🤖 **AI Exploration**: Building RAG architectures, Agentic workflows, and fine-tuning Transformer models.
 
 ---
 
@@ -39,11 +39,11 @@
       <ul>
         <li><b>Languages & ML:</b> Python, PyTorch, Scikit-Learn, Pandas, NumPy</li>
         <li><b>Analytics & BI:</b> Power BI, Power Query, SQL</li>
-        <li><b>Specialization:</b> Deep Learning, Time Series Forecasting, Data Analysis</li>
+        <li><b>Domains:</b> Deep Learning, Time Series Forecasting, Data Analysis</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>💻 Web Development & Stack</h4>
+      <h4>💻 Web Development & Systems</h4>
       <ul>
         <li><b>Frontend:</b> Next.js, React, TypeScript, JavaScript, Tailwind CSS</li>
         <li><b>Backend & DB:</b> PHP, PostgreSQL, MySQL</li>
@@ -55,39 +55,6 @@
 
 ---
 
-### 💼 Career Journey
+### 💼 Career History & Experience
 
-| Period | Role | Organization | Core Deliverables |
-| :--- | :--- | :--- | :--- |
-| **08/2025 - 12/2025** | **Career Consultant** | Vitae Service Company | Career strategies, resume architecture, candidate branding |
-| **05/2025 - 08/2025** | **PHP Full-Stack Developer** | EA-DEVELOPMENT | Fleet management web applications & deployment |
-| **02/2024 - 05/2024** | **Data Science Intern** | ISIMS | Energy demand forecasting using Deep Learning models |
-| **02/2023 - 06/2023** | **Web Dev & Data Science Intern** | ISS4U | Web software solutions & data analysis workflows |
-| **07/2022 - 08/2022** | **Web Developer Intern** | Designet | Responsive UI design & frontend integration |
-
----
-
-### 📜 Certifications & Achievements
-
-- ☁️ **Microsoft Certified: Azure Data Fundamentals (`DP-900`)**
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img height="175" src="[https://github-readme-stats.vercel.app/api?username=belhajjamorsamar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=belhajjamorsamar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" />
-<img height="175" src="[https://github-readme-streak-stats.herokuapp.com/?user=belhajjamorsamar&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=belhajjamorsamar&theme=tokyonight&hide_border=true)" />
-
-</div>
-
----
-
-<div align="center">
-
-> *"Building practical data science and modern web applications."*
-
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:090d16&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:090d16&height=100&section=footer)"/>
-
-</div>
+| Timeline | Role | Organization | Core
